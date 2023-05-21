@@ -1,0 +1,321 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\pitchou\\Documents\\App\\TicTacToe\\TicTacToe\\bin\\Debug\\net6.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
+    },
+    {
+      "Id": "C:\\Users\\pitchou\\Documents\\App\\TicTacToe\\TicTacToe\\obj\\Debug\\net6.0\\build-gz\\ZGTOOBu9.gz",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js.gz"
+    },
+    {
+      "Id": "C:\\Users\\pitchou\\Documents\\App\\TicTacToe\\TicTacToe\\obj\\Debug\\net6.0\\scopedcss\\bundle\\Games.styles.css",
+      "PackagePath": "staticwebassets\\Games.styles.css"
+    },
+    {
+      "Id": "C:\\Users\\pitchou\\Documents\\App\\TicTacToe\\TicTacToe\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\pitchou\\Documents\\App\\TicTacToe\\TicTacToe\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\pitchou\\Documents\\App\\TicTacToe\\TicTacToe\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\pitchou\\Documents\\App\\TicTacToe\\TicTacToe\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
+      "PackagePath": "staticwebassets\\css\\open-iconic"
+    },
+    {
+      "Id": "C:\\Users\\pitchou\\Documents\\App\\TicTacToe\\TicTacToe\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
+      "PackagePath": "staticwebassets\\css\\open-iconic"
+    },
+    {
+      "Id": "C:\\Users\\pitchou\\Documents\\App\\TicTacToe\\TicTacToe\\wwwroot\\css\\open-iconic\\README.md",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\README.md"
+    },
+    {
+      "Id": "C:\\Users\\pitchou\\Documents\\App\\TicTacToe\\TicTacToe\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\pitchou\\Documents\\App\\TicTacToe\\TicTacToe\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.eot"
+    },
+    {
+      "Id": "C:\\Users\\pitchou\\Documents\\App\\TicTacToe\\TicTacToe\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.otf"
+    },
+    {
+      "Id": "C:\\Users\\pitchou\\Documents\\App\\TicTacToe\\TicTacToe\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.svg"
+    },
+    {
+      "Id": "C:\\Users\\pitchou\\Documents\\App\\TicTacToe\\TicTacToe\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\pitchou\\Documents\\App\\TicTacToe\\TicTacToe\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.woff"
+    },
+    {
+      "Id": "C:\\Users\\pitchou\\Documents\\App\\TicTacToe\\TicTacToe\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\pitchou\\Documents\\App\\TicTacToe\\TicTacToe\\wwwroot\\icon-192.png",
+      "PackagePath": "staticwebassets\\icon-192.png"
+    },
+    {
+      "Id": "C:\\Users\\pitchou\\Documents\\App\\TicTacToe\\TicTacToe\\wwwroot\\images\\cards\\cardBack.png",
+      "PackagePath": "staticwebassets\\images\\cards\\cardBack.png"
+    },
+    {
+      "Id": "C:\\Users\\pitchou\\Documents\\App\\TicTacToe\\TicTacToe\\wwwroot\\images\\cards\\cardClubsAce.png",
+      "PackagePath": "staticwebassets\\images\\cards\\cardClubsAce.png"
+    },
+    {
+      "Id": "C:\\Users\\pitchou\\Documents\\App\\TicTacToe\\TicTacToe\\wwwroot\\images\\cards\\cardClubsEight.png",
+      "PackagePath": "staticwebassets\\images\\cards\\cardClubsEight.png"
+    },
+    {
+      "Id": "C:\\Users\\pitchou\\Documents\\App\\TicTacToe\\TicTacToe\\wwwroot\\images\\cards\\cardClubsFive.png",
+      "PackagePath": "staticwebassets\\images\\cards\\cardClubsFive.png"
+    },
+    {
+      "Id": "C:\\Users\\pitchou\\Documents\\App\\TicTacToe\\TicTacToe\\wwwroot\\images\\cards\\cardClubsFour.png",
+      "PackagePath": "staticwebassets\\images\\cards\\cardClubsFour.png"
+    },
+    {
+      "Id": "C:\\Users\\pitchou\\Documents\\App\\TicTacToe\\TicTacToe\\wwwroot\\images\\cards\\cardClubsJack.png",
+      "PackagePath": "staticwebassets\\images\\cards\\cardClubsJack.png"
+    },
+    {
+      "Id": "C:\\Users\\pitchou\\Documents\\App\\TicTacToe\\TicTacToe\\wwwroot\\images\\cards\\cardClubsKing.png",
+      "PackagePath": "staticwebassets\\images\\cards\\cardClubsKing.png"
+    },
+    {
+      "Id": "C:\\Users\\pitchou\\Documents\\App\\TicTacToe\\TicTacToe\\wwwroot\\images\\cards\\cardClubsNine.png",
+      "PackagePath": "staticwebassets\\images\\cards\\cardClubsNine.png"
+    },
+    {
+      "Id": "C:\\Users\\pitchou\\Documents\\App\\TicTacToe\\TicTacToe\\wwwroot\\images\\cards\\cardClubsQueen.png",
+      "PackagePath": "staticwebassets\\images\\cards\\cardClubsQueen.png"
+    },
+    {
+      "Id": "C:\\Users\\pitchou\\Documents\\App\\TicTacToe\\TicTacToe\\wwwroot\\images\\cards\\cardClubsSeven.png",
+      "PackagePath": "staticwebassets\\images\\cards\\cardClubsSeven.png"
+    },
+    {
+      "Id": "C:\\Users\\pitchou\\Documents\\App\\TicTacToe\\TicTacToe\\wwwroot\\images\\cards\\cardClubsSix.png",
+      "PackagePath": "staticwebassets\\images\\cards\\cardClubsSix.png"
+    },
+    {
+      "Id": "C:\\Users\\pitchou\\Documents\\App\\TicTacToe\\TicTacToe\\wwwroot\\images\\cards\\cardClubsTen.png",
+      "PackagePath": "staticwebassets\\images\\cards\\cardClubsTen.png"
+    },
+    {
+      "Id": "C:\\Users\\pitchou\\Documents\\App\\TicTacToe\\TicTacToe\\wwwroot\\images\\cards\\cardClubsThree.png",
+      "PackagePath": "staticwebassets\\images\\cards\\cardClubsThree.png"
+    },
+    {
+      "Id": "C:\\Users\\pitchou\\Documents\\App\\TicTacToe\\TicTacToe\\wwwroot\\images\\cards\\cardClubsTwo.png",
+      "PackagePath": "staticwebassets\\images\\cards\\cardClubsTwo.png"
+    },
+    {
+      "Id": "C:\\Users\\pitchou\\Documents\\App\\TicTacToe\\TicTacToe\\wwwroot\\images\\cards\\cardDiamondsAce.png",
+      "PackagePath": "staticwebassets\\images\\cards\\cardDiamondsAce.png"
+    },
+    {
+      "Id": "C:\\Users\\pitchou\\Documents\\App\\TicTacToe\\TicTacToe\\wwwroot\\images\\cards\\cardDiamondsEight.png",
+      "PackagePath": "staticwebassets\\images\\cards\\cardDiamondsEight.png"
+    },
+    {
+      "Id": "C:\\Users\\pitchou\\Documents\\App\\TicTacToe\\TicTacToe\\wwwroot\\images\\cards\\cardDiamondsFive.png",
+      "PackagePath": "staticwebassets\\images\\cards\\cardDiamondsFive.png"
+    },
+    {
+      "Id": "C:\\Users\\pitchou\\Documents\\App\\TicTacToe\\TicTacToe\\wwwroot\\images\\cards\\cardDiamondsFour.png",
+      "PackagePath": "staticwebassets\\images\\cards\\cardDiamondsFour.png"
+    },
+    {
+      "Id": "C:\\Users\\pitchou\\Documents\\App\\TicTacToe\\TicTacToe\\wwwroot\\images\\cards\\cardDiamondsJack.png",
+      "PackagePath": "staticwebassets\\images\\cards\\cardDiamondsJack.png"
+    },
+    {
+      "Id": "C:\\Users\\pitchou\\Documents\\App\\TicTacToe\\TicTacToe\\wwwroot\\images\\cards\\cardDiamondsKing.png",
+      "PackagePath": "staticwebassets\\images\\cards\\cardDiamondsKing.png"
+    },
+    {
+      "Id": "C:\\Users\\pitchou\\Documents\\App\\TicTacToe\\TicTacToe\\wwwroot\\images\\cards\\cardDiamondsNine.png",
+      "PackagePath": "staticwebassets\\images\\cards\\cardDiamondsNine.png"
+    },
+    {
+      "Id": "C:\\Users\\pitchou\\Documents\\App\\TicTacToe\\TicTacToe\\wwwroot\\images\\cards\\cardDiamondsQueen.png",
+      "PackagePath": "staticwebassets\\images\\cards\\cardDiamondsQueen.png"
+    },
+    {
+      "Id": "C:\\Users\\pitchou\\Documents\\App\\TicTacToe\\TicTacToe\\wwwroot\\images\\cards\\cardDiamondsSeven.png",
+      "PackagePath": "staticwebassets\\images\\cards\\cardDiamondsSeven.png"
+    },
+    {
+      "Id": "C:\\Users\\pitchou\\Documents\\App\\TicTacToe\\TicTacToe\\wwwroot\\images\\cards\\cardDiamondsSix.png",
+      "PackagePath": "staticwebassets\\images\\cards\\cardDiamondsSix.png"
+    },
+    {
+      "Id": "C:\\Users\\pitchou\\Documents\\App\\TicTacToe\\TicTacToe\\wwwroot\\images\\cards\\cardDiamondsTen.png",
+      "PackagePath": "staticwebassets\\images\\cards\\cardDiamondsTen.png"
+    },
+    {
+      "Id": "C:\\Users\\pitchou\\Documents\\App\\TicTacToe\\TicTacToe\\wwwroot\\images\\cards\\cardDiamondsThree.png",
+      "PackagePath": "staticwebassets\\images\\cards\\cardDiamondsThree.png"
+    },
+    {
+      "Id": "C:\\Users\\pitchou\\Documents\\App\\TicTacToe\\TicTacToe\\wwwroot\\images\\cards\\cardDiamondsTwo.png",
+      "PackagePath": "staticwebassets\\images\\cards\\cardDiamondsTwo.png"
+    },
+    {
+      "Id": "C:\\Users\\pitchou\\Documents\\App\\TicTacToe\\TicTacToe\\wwwroot\\images\\cards\\cardHeartsAce.png",
+      "PackagePath": "staticwebassets\\images\\cards\\cardHeartsAce.png"
+    },
+    {
+      "Id": "C:\\Users\\pitchou\\Documents\\App\\TicTacToe\\TicTacToe\\wwwroot\\images\\cards\\cardHeartsEight.png",
+      "PackagePath": "staticwebassets\\images\\cards\\cardHeartsEight.png"
+    },
+    {
+      "Id": "C:\\Users\\pitchou\\Documents\\App\\TicTacToe\\TicTacToe\\wwwroot\\images\\cards\\cardHeartsFive.png",
+      "PackagePath": "staticwebassets\\images\\cards\\cardHeartsFive.png"
+    },
+    {
+      "Id": "C:\\Users\\pitchou\\Documents\\App\\TicTacToe\\TicTacToe\\wwwroot\\images\\cards\\cardHeartsFour.png",
+      "PackagePath": "staticwebassets\\images\\cards\\cardHeartsFour.png"
+    },
+    {
+      "Id": "C:\\Users\\pitchou\\Documents\\App\\TicTacToe\\TicTacToe\\wwwroot\\images\\cards\\cardHeartsJack.png",
+      "PackagePath": "staticwebassets\\images\\cards\\cardHeartsJack.png"
+    },
+    {
+      "Id": "C:\\Users\\pitchou\\Documents\\App\\TicTacToe\\TicTacToe\\wwwroot\\images\\cards\\cardHeartsKing.png",
+      "PackagePath": "staticwebassets\\images\\cards\\cardHeartsKing.png"
+    },
+    {
+      "Id": "C:\\Users\\pitchou\\Documents\\App\\TicTacToe\\TicTacToe\\wwwroot\\images\\cards\\cardHeartsNine.png",
+      "PackagePath": "staticwebassets\\images\\cards\\cardHeartsNine.png"
+    },
+    {
+      "Id": "C:\\Users\\pitchou\\Documents\\App\\TicTacToe\\TicTacToe\\wwwroot\\images\\cards\\cardHeartsQueen.png",
+      "PackagePath": "staticwebassets\\images\\cards\\cardHeartsQueen.png"
+    },
+    {
+      "Id": "C:\\Users\\pitchou\\Documents\\App\\TicTacToe\\TicTacToe\\wwwroot\\images\\cards\\cardHeartsSeven.png",
+      "PackagePath": "staticwebassets\\images\\cards\\cardHeartsSeven.png"
+    },
+    {
+      "Id": "C:\\Users\\pitchou\\Documents\\App\\TicTacToe\\TicTacToe\\wwwroot\\images\\cards\\cardHeartsSix.png",
+      "PackagePath": "staticwebassets\\images\\cards\\cardHeartsSix.png"
+    },
+    {
+      "Id": "C:\\Users\\pitchou\\Documents\\App\\TicTacToe\\TicTacToe\\wwwroot\\images\\cards\\cardHeartsTen.png",
+      "PackagePath": "staticwebassets\\images\\cards\\cardHeartsTen.png"
+    },
+    {
+      "Id": "C:\\Users\\pitchou\\Documents\\App\\TicTacToe\\TicTacToe\\wwwroot\\images\\cards\\cardHeartsThree.png",
+      "PackagePath": "staticwebassets\\images\\cards\\cardHeartsThree.png"
+    },
+    {
+      "Id": "C:\\Users\\pitchou\\Documents\\App\\TicTacToe\\TicTacToe\\wwwroot\\images\\cards\\cardHeartsTwo.png",
+      "PackagePath": "staticwebassets\\images\\cards\\cardHeartsTwo.png"
+    },
+    {
+      "Id": "C:\\Users\\pitchou\\Documents\\App\\TicTacToe\\TicTacToe\\wwwroot\\images\\cards\\cardSpadesAce.png",
+      "PackagePath": "staticwebassets\\images\\cards\\cardSpadesAce.png"
+    },
+    {
+      "Id": "C:\\Users\\pitchou\\Documents\\App\\TicTacToe\\TicTacToe\\wwwroot\\images\\cards\\cardSpadesEight.png",
+      "PackagePath": "staticwebassets\\images\\cards\\cardSpadesEight.png"
+    },
+    {
+      "Id": "C:\\Users\\pitchou\\Documents\\App\\TicTacToe\\TicTacToe\\wwwroot\\images\\cards\\cardSpadesFive.png",
+      "PackagePath": "staticwebassets\\images\\cards\\cardSpadesFive.png"
+    },
+    {
+      "Id": "C:\\Users\\pitchou\\Documents\\App\\TicTacToe\\TicTacToe\\wwwroot\\images\\cards\\cardSpadesFour.png",
+      "PackagePath": "staticwebassets\\images\\cards\\cardSpadesFour.png"
+    },
+    {
+      "Id": "C:\\Users\\pitchou\\Documents\\App\\TicTacToe\\TicTacToe\\wwwroot\\images\\cards\\cardSpadesJack.png",
+      "PackagePath": "staticwebassets\\images\\cards\\cardSpadesJack.png"
+    },
+    {
+      "Id": "C:\\Users\\pitchou\\Documents\\App\\TicTacToe\\TicTacToe\\wwwroot\\images\\cards\\cardSpadesKing.png",
+      "PackagePath": "staticwebassets\\images\\cards\\cardSpadesKing.png"
+    },
+    {
+      "Id": "C:\\Users\\pitchou\\Documents\\App\\TicTacToe\\TicTacToe\\wwwroot\\images\\cards\\cardSpadesNine.png",
+      "PackagePath": "staticwebassets\\images\\cards\\cardSpadesNine.png"
+    },
+    {
+      "Id": "C:\\Users\\pitchou\\Documents\\App\\TicTacToe\\TicTacToe\\wwwroot\\images\\cards\\cardSpadesQueen.png",
+      "PackagePath": "staticwebassets\\images\\cards\\cardSpadesQueen.png"
+    },
+    {
+      "Id": "C:\\Users\\pitchou\\Documents\\App\\TicTacToe\\TicTacToe\\wwwroot\\images\\cards\\cardSpadesSeven.png",
+      "PackagePath": "staticwebassets\\images\\cards\\cardSpadesSeven.png"
+    },
+    {
+      "Id": "C:\\Users\\pitchou\\Documents\\App\\TicTacToe\\TicTacToe\\wwwroot\\images\\cards\\cardSpadesSix.png",
+      "PackagePath": "staticwebassets\\images\\cards\\cardSpadesSix.png"
+    },
+    {
+      "Id": "C:\\Users\\pitchou\\Documents\\App\\TicTacToe\\TicTacToe\\wwwroot\\images\\cards\\cardSpadesTen.png",
+      "PackagePath": "staticwebassets\\images\\cards\\cardSpadesTen.png"
+    },
+    {
+      "Id": "C:\\Users\\pitchou\\Documents\\App\\TicTacToe\\TicTacToe\\wwwroot\\images\\cards\\cardSpadesThree.png",
+      "PackagePath": "staticwebassets\\images\\cards\\cardSpadesThree.png"
+    },
+    {
+      "Id": "C:\\Users\\pitchou\\Documents\\App\\TicTacToe\\TicTacToe\\wwwroot\\images\\cards\\cardSpadesTwo.png",
+      "PackagePath": "staticwebassets\\images\\cards\\cardSpadesTwo.png"
+    },
+    {
+      "Id": "C:\\Users\\pitchou\\Documents\\App\\TicTacToe\\TicTacToe\\wwwroot\\images\\game-blackjack.png",
+      "PackagePath": "staticwebassets\\images\\game-blackjack.png"
+    },
+    {
+      "Id": "C:\\Users\\pitchou\\Documents\\App\\TicTacToe\\TicTacToe\\wwwroot\\images\\game-img1.png",
+      "PackagePath": "staticwebassets\\images\\game-img1.png"
+    },
+    {
+      "Id": "C:\\Users\\pitchou\\Documents\\App\\TicTacToe\\TicTacToe\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\pitchou\\Documents\\App\\TicTacToe\\TicTacToe\\wwwroot\\js\\common.js",
+      "PackagePath": "staticwebassets\\js\\common.js"
+    },
+    {
+      "Id": "C:\\Users\\pitchou\\Documents\\App\\TicTacToe\\TicTacToe\\wwwroot\\sample-data\\weather.json",
+      "PackagePath": "staticwebassets\\sample-data\\weather.json"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Games.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Games.props",
+      "PackagePath": "build\\Games.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Games.props",
+      "PackagePath": "buildMultiTargeting\\Games.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Games.props",
+      "PackagePath": "buildTransitive\\Games.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

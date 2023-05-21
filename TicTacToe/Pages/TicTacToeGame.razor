@@ -1,0 +1,16 @@
+﻿@page "/tic-tac-toe"
+@inject IJSRuntime JS
+
+<div>
+    <h1 class="not-selectable">On the player turn @player</h1>
+    <div class="board">
+        @for (int i = 0; i < board.Length; i++)
+        {
+            int index = i;
+            <div class="square @(GetSquareValue(index))"
+             @onclick="()=> SquareCliked(index)">
+                <h5 class="char not-selectable">@board[i]</h5>
+            </div>
+        }
+    </div>
+</div>

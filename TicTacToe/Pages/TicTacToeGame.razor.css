@@ -1,0 +1,59 @@
+﻿
+
+.not-selectable {
+    -webkit-user-select: none;
+}
+
+h1 {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.board {
+    width: 33rem;
+    height: 31rem;
+    gap: 8px;
+    border: 1px solid white;
+    display: flex;
+    flex-wrap: wrap;
+    margin: auto;
+}
+
+.square {
+    width: 10rem;
+    height: 10rem;
+    border: 1px solid black;
+    border-radius: 30px;
+    background: #78bec5;
+    opacity: 80;
+}
+
+.square-x {
+    background-color: #5045FF;
+}
+
+.square-o {
+    background-color: #FF4545;
+}
+
+.square:hover {
+    background: #E9A825;
+    cursor: pointer;
+    box-shadow: 0px 0px 5px 5px #595959;
+}
+
+.char {
+    font-size: 5rem;
+    text-align: center;
+    font-weight: 800;
+    margin-top: 15%;
+    color: #dc685a;
+}
+
+.square-x > .char {
+    color: #000B74;
+}
+
+.square-o > .char {
+    color: #740000;
+}

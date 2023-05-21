@@ -1,0 +1,126 @@
+﻿@page "/black-jack"
+
+@using Games.Abstractions;
+@using Games.Component
+
+<PageTitle>Black Jack</PageTitle>
+
+<div class="row">
+    <div class="bj-col unselectable">
+        <div>
+            @{
+                int cardCount = _dealer.Deck.Count + 1;
+            }
+            @while (cardCount > 0)
+            {
+                <div class="blackjack-drawdeck">
+                    <img src="images/Cards/cardBack.png" />
+                </div>
+                cardCount -= 13;
+            }
+        </div>
+    </div>
+    <div class="bj-col unselectable">
+        <PlayerHand Cards="_dealer.Cards" />
+    </div>
+    <div class="bj-col unselectable">
+        <Score State="_state" Player="_dealer" />
+    </div>
+</div>
+
+<div class="row">
+    <div class="bj-col unselectable" style="font-family: 'Calisto MT';">
+        <FundsDisplay Funds="_player.Funds" Change="_player.Change" />
+    </div>
+
+    <div class="bj-col unselectable" style="font-family: 'Calisto MT';">
+        @if (_state == GameState.Betting) 
+        {
+            @if (_player.Funds < 10)
+            {
+                <span class="display-3 text-danger">Out of money !</span>
+            }
+            @if (_player.Funds >= 10)
+            {
+                <button class="bj-button unselectable" @onclick="(() => Bet(10))">
+                    <span>Bet $10</span>
+                </button>
+            }
+            @if (_player.Funds >= 20)
+            {
+                <button class="bj-button unselectable" @onclick="(() => Bet(20))">
+                    <span>Bet $20</span>
+                </button>
+            }
+            @if (_player.Funds >= 50)
+            {
+                <button class="bj-button unselectable" @onclick="(() => Bet(50))">
+                    <span>Bet $50</span>
+                </button>
+            }
+
+        }
+        else if (_state == GameState.Payout) 
+        { 
+            <HandResult Player="_player" Dealer="_dealer" />
+        }
+        else if(_state == GameState.Dealing
+            || _state == GameState.Shuffling
+            || _state == GameState.InProgress) 
+        {
+            <Message State="_state" Bet="_player.Bet" />
+        }
+    </div>
+</div>
+
+<div class="row">
+    <div class="bj-col-action unselectable">
+        @if (_state == GameState.NotStarted || _player.Funds < 10)
+        {
+            <button class="bj-button unselectable" @onclick="(() => InitializeHand())">
+                <span>Start Game</span>
+            </button>
+        }
+        @if (!_player.IsBusted
+        && _state == GameState.InProgress
+        && !_player.HasStood)
+        {
+            <button class="bj-button unselectable" @onclick="(() => Stand())">
+                <span>Stand</span>
+            </button>
+            <button class="bj-button unselectable" @onclick="(() => Hit())">
+                <span>Hit</span>
+            </button>
+            @if (_player.Score >= 9
+           && _player.Score <= 11
+           && _player.Cards.Count == 2
+           && _player.Funds >= _player.Bet * 2)
+            {
+                <button class="btn btn-warning"
+                @onclick="(() => DoubleDown())">
+                    Double Down
+                </button>
+            }
+            @if (_dealer.HasAceShowing && !_player.HasInsurance)
+            {
+                <button class="btn btn-warning"
+                @onclick="(() => Insurance())">
+                    Insurance ($@(_player.Bet / 2))
+                </button>
+            }
+        }
+
+        @if (_state == GameState.Payout)
+        {
+            <button class="bj-button unselectable" @onclick="(() => NewHand())">
+                <span>Keep Going !</span>
+            </button>
+        }
+    </div>
+    <div class="bj-col unselectable">
+        <PlayerHand Cards="_player.Cards" />
+    </div>
+    <div class="bj-col unselectable">
+        <Score State="_state" Player="_player" />
+    </div>
+</div>

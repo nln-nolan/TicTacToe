@@ -1,0 +1,37 @@
+﻿@page "/"
+@inject IJSRuntime JS
+
+<PageTitle>Home</PageTitle>
+
+<div class="page">
+    <h1 class="unselectable">Welcome</h1>
+    <h1 class="unselectable">You can find the link to the tic-tac-toe game below</h1>
+    <h1 class="home-place-center-arrow unselectable">↓</h1>
+
+    <div class="home-place-button">
+        <div class="home-button-ttt unselectable">
+            <a href="\tic-tac-toe" class="btn-flip" data-back="Play Now" data-front="Tic Tac Toe"></a>
+        </div>
+
+        <div class="home-button-ttt unselectable">
+            <a href="\black-jack" class="btn-flip" data-back="Play Now" data-front="black-jack"></a>
+        </div>
+    </div>
+
+    <div class="home-place-image">
+        <div class="unselectable">
+            <img class="home-border-img" src="images/game-img1.png"
+                 alt="A picture of the Tic Tac Toe game with blue crosses for the cross team and red circles for the circle team."
+                 width="300"
+                 height="330"
+                 title="Tic tac toe" />
+        </div>
+        <div class="unselectable">
+            <img class="home-border-img" src="images/game-blackjack.png"
+                 alt="A picture of the Black Jack game with blue crosses for the cross team and red circles for the circle team."
+                 width="300"
+                 height="330"
+                 title="Black Jack" />
+        </div>
+    </div>
+</div>

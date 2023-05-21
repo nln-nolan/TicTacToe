@@ -1,0 +1,73 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = browser
+build_property.RootNamespace = Games
+build_property.RootNamespace = Games
+build_property.ProjectDir = C:\Users\{ nln.nolan }\Documents\Visual Studio 2022\App\TicTacToe\TicTacToe\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\{ nln.nolan }\Documents\Visual Studio 2022\App\TicTacToe\TicTacToe
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/\{ nln.nolan \}/Documents/Visual Studio 2022/App/TicTacToe/TicTacToe/App.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/\{ nln.nolan \}/Documents/Visual Studio 2022/App/TicTacToe/TicTacToe/Shared/SurveyPrompt.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFN1cnZleVByb21wdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/\{ nln.nolan \}/Documents/Visual Studio 2022/App/TicTacToe/TicTacToe/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/\{ nln.nolan \}/Documents/Visual Studio 2022/App/TicTacToe/TicTacToe/Component/FundsDisplay.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50XEZ1bmRzRGlzcGxheS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-ditq42dq3n
+
+[C:/Users/\{ nln.nolan \}/Documents/Visual Studio 2022/App/TicTacToe/TicTacToe/Component/HandResult.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50XEhhbmRSZXN1bHQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-2a7zkptjmt
+
+[C:/Users/\{ nln.nolan \}/Documents/Visual Studio 2022/App/TicTacToe/TicTacToe/Component/Message.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50XE1lc3NhZ2UucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-hzdcb0l1sj
+
+[C:/Users/\{ nln.nolan \}/Documents/Visual Studio 2022/App/TicTacToe/TicTacToe/Component/PlayerHand.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50XFBsYXllckhhbmQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-jbadah0chk
+
+[C:/Users/\{ nln.nolan \}/Documents/Visual Studio 2022/App/TicTacToe/TicTacToe/Component/PlayingCard.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50XFBsYXlpbmdDYXJkLnJhem9y
+build_metadata.AdditionalFiles.CssScope = b-3ah9od3kdn
+
+[C:/Users/\{ nln.nolan \}/Documents/Visual Studio 2022/App/TicTacToe/TicTacToe/Component/Score.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50XFNjb3JlLnJhem9y
+build_metadata.AdditionalFiles.CssScope = b-j2s0ngkeh4
+
+[C:/Users/\{ nln.nolan \}/Documents/Visual Studio 2022/App/TicTacToe/TicTacToe/Pages/BlackJack.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQmxhY2tKYWNrLnJhem9y
+build_metadata.AdditionalFiles.CssScope = b-8qlpea8zb9
+
+[C:/Users/\{ nln.nolan \}/Documents/Visual Studio 2022/App/TicTacToe/TicTacToe/Pages/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-qxjk6y2gg4
+
+[C:/Users/\{ nln.nolan \}/Documents/Visual Studio 2022/App/TicTacToe/TicTacToe/Pages/TicTacToeGame.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVGljVGFjVG9lR2FtZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-5zalc18ae3
+
+[C:/Users/\{ nln.nolan \}/Documents/Visual Studio 2022/App/TicTacToe/TicTacToe/Shared/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-d43zj6zlhp
+
+[C:/Users/\{ nln.nolan \}/Documents/Visual Studio 2022/App/TicTacToe/TicTacToe/Shared/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-d0qnm21bx8

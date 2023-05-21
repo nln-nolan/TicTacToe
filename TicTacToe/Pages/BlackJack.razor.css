@@ -1,0 +1,82 @@
+﻿
+.blackjack-drawdeck {
+    height: 190px;
+    width: 140px;
+    float: left;
+}
+
+.blackjack-drawdeck:not(:first-child) {
+    margin-left: -120px;
+}
+
+
+.bj-col {
+    flex: 0 0 auto;
+    width: 30%;
+    display: flex;
+    gap: 8px;
+    align-items: center;
+}
+
+.bj-col-action {
+    flex: 0 0 auto;
+    width: 30%;
+    display: flex;
+    gap: 8px;
+    align-items: flex-start;
+    flex-direction: column;
+    justify-content: center;
+}
+
+
+/* BUTTON */
+.bj-button {
+    display: block;
+    width: 140px;
+    height: 40px;
+    font-size: 13px;
+    text-decoration: none;
+    border: 2px solid #333;
+    border-radius: 5px;
+    letter-spacing: 2px;
+    text-align: center;
+    position: relative;
+    transition: all .35s;
+    background-color: grey;
+    color: white;
+}
+
+    .bj-button span {
+        position: relative;
+        z-index: 2;
+        padding: 10px;
+        font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    }
+
+    .bj-button:after {
+        position: absolute;
+        content: "";
+        top: 0;
+        left: 0;
+        width: 0;
+        height: 100%;
+        background: #143dbd;
+        transition: all .35s;
+    }
+
+    .bj-button:hover {
+        color: #e9e9e9;
+    }
+
+    .bj-button:hover:after {
+        width: 100%;
+    }
+
+
+.unselectable {
+    -webkit-user-select: none;
+    -webkit-touch-callout: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}

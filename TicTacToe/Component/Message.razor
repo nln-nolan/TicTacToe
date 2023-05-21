@@ -1,0 +1,15 @@
+﻿@using Games.Abstractions;
+
+@if (State == GameState.Dealing) 
+{
+    <span class="display-3 text-info">Dealing...</span>
+}
+
+@if (State == GameState.InProgress)
+{
+    <span class="display-3 text-primary">$@Bet</span>
+}
+@if (State == GameState.Shuffling)
+{
+    <span class="display-3 text-info">Shuffling...</span>
+}

@@ -1,0 +1,11 @@
+
+
+.blackjack-card[b-3ah9od3kdn] {
+    height: 190px;
+    width: 140px;
+    float: left;
+}
+
+    .blackjack-card:not(:first-child)[b-3ah9od3kdn] {
+        margin-left: -100px;
+    }
